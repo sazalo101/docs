@@ -1133,6 +1133,14 @@ const Users: User[] = [
     website: 'https://www.gainforest.earth/',
     source: 'https://github.com/GainForest',
     tags: ['refi'],
+  },
+   {
+    title: 'DeadStreet',
+    description: 'Decentralized Web3 pastebin',
+    preview: require('./showcase/pastebin.jpeg'),
+    website: 'https://deadstreet.vercel.app/',
+    source: 'https://github.com/sazalo101/Deadstreet',
+    tags: ['dapp','apps'],
   }
   /*
   Pro Tip: add your site in alphabetical order.
